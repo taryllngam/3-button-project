@@ -2,9 +2,58 @@
 h1{
     text-align: center;
     padding: 0;
+    font-style: italic;
+    font-size: larger;
+}
+.header-section{
+    background-color: bisque;
+}
+.imgage{
+    background-position: center;
 }
 .description{
    width: fit-content;
    padding-top: 50px;
    text-align: center;
+}
+.button-text a{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+.button-btn{
+    margin: 70px auto 0;
+}
+.button-btn a{
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 500px;
+    padding: 12px 0;
+    color: black;
+    border: 5px solid green;
+    background-color: blanchedalmond;
+
+
+}
+#lamborgini{
+    margin: 100%;
+    padding: 70px 0;
+}
+.title-text{
+    text-align: center;
+    padding-bottom: 70px;
+}
+.title-text p{
+    margin: auto;
+    font-size: 20px;
+     color: #009688;
+     font-weight: bold;
+     position: relative;
+     z-index: 1;
+     display: inline-block;
+}
+.title-text h1{
+    font-size: 50px;
 }
