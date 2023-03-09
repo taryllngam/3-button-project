@@ -1,3 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
-    color: red;
+    text-align: center;
+    padding: 100%;
+}
+.description{
+   width: fit-content;
+   padding-top: 50px;
+   text-align: center;
 }
