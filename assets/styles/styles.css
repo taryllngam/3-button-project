@@ -4,9 +4,7 @@
 }
 h1{
     text-align: center;
-    background-image: linear-gradient(rgba(0,0,0,0.5),#009688,url(./assets/images/lambo.jpg);
-    background-size: cover;
-    background-position: center;
+    padding: 100%;
 }
 .description{
    width: fit-content;
